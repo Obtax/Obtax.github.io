@@ -1,0 +1,24 @@
+nav{ 
+    display:flex;
+    justify-content: space-evenly;
+    background-color:black;
+    padding:50px;
+
+}
+Nav a {
+    text-decoration:none;
+    color:blue;
+    font-family: "arial";
+    font-weight:200;
+    fon
+}
+nav a:hover{
+color
+
+}
+
+.{
+    padding: 20px;
+    margin:1px
+    text-align:center
+}
